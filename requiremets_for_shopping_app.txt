@@ -1,3 +1,6 @@
 
 Requirements for cpp program for shopping is:
-1. product:for electronics and electrical
+1. product:
+2,functionalities to add:
+3.UI requirements:
+4.
