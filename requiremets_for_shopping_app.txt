@@ -1,6 +1,19 @@
 
 Requirements for cpp program for shopping is:
-1. product:
-2,functionalities to add:
-3.UI requirements:
-4.
+1.Products available
+2.potential functionalities to add
+3.UI requirements
+4.Target Demographic
+5.Tools (Backend/Frontend skills)
+6.Currency conversion 
+7.Operating area 
+8.Tax rules
+9.Supplier details and reliability
+10.Logistics
+11.Promotion and digital marketing 
+12.Payment options 
+13.Employees (Human resources)
+14.Cyber Security measures
+15.Cross Platform promotions via IOS,Android apps etc.
+16.Viable service area
+17.
